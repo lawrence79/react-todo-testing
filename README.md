@@ -7,11 +7,12 @@
 
 ## Requirements
 
--   [x] Generate a test for a given component
--   [x] Generate a test for a given component with a given state
--   [x] Generate a test for a given component with a given state and props
--   [x] Generate a test for an API call
--   [x] Generate a coverage report for the generated tests
+-   create a test that checks that all components are rendered
+-   create a test that checks that the header is rendered
+-   create a test that checks that the list is rendered
+-   create a test that checks that the form is rendered
+-   create a test that checks that the list is populated with the data from the data.json file
+-   Generate a coverage report for the generated tests
 
 ## How to use
 
